@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb2cac0d-f58a-4095-aee8-a7a8d9737485" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../BankAcount/.idea/BankAcount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bublesort/Bublesort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Bublesort/demo/src/BubleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InventoryManagementSystem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InventoryManagementSystem/src/InventoryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../InventoryManagementSystem/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoviesList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../LibraryMangemat/src/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bublesort/demo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bublesort/demo/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InventoryManagementSystem/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../InventoryManagementSystem/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../LibraryMangemat/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../LibraryMangemat/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2xKa2kOB4VYrrm4R9qacj2GhmzP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ASUS/OneDrive/Desktop/Bridgelabz/week7/DataStructure/LinkList/MovieManagementSystem/src"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb2cac0d-f58a-4095-aee8-a7a8d9737485" name="Changes" comment="" />
+      <created>1747689013904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747689013904</updated>
+    </task>
+    <servers />
+  </component>
+</project>
